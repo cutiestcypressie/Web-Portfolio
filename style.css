@@ -205,15 +205,19 @@ section{
 }
 
 @keyframes words {
-    0%, 33%{
+    0%, 25%{
         content:"IT Student";
     }
-    40%, 66%{
+    26%, 50%{
         content:"Graphic Designer";
     }
-    67%, 100%{
+    51%, 75%{
+        content:"UI Designer";
+    }
+    76%, 100%{
         content:"Artist";
     }
+
 }
 
 .social-links i{
